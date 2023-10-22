@@ -1,4 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunseo9808&count_private=true)
 
 항상 성장하기 위해 노력하는 개발자입니다.
 
